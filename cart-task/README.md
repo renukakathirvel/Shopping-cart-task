@@ -20,7 +20,7 @@ CSS: For styling the application.
 Bootstrap: For layout and design elements.
 How to Run the Application
 Clone the repository:
-git clone 
+git clone https://github.com/renukakathirvel/Shopping-cart-task/tree/main/cart-task
 
 Navigate to the project directory:
 cd cart-task
