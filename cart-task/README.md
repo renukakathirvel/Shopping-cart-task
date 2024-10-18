@@ -3,6 +3,11 @@ A responsive shopping cart application built with React, inspired by the Start B
 
 Preview
 
+![WhatsApp Image 2024-10-18 at 5 06 52 PM](https://github.com/user-attachments/assets/9afc263a-5b54-4fd9-9464-4e7b207e125a)
+![WhatsApp Image 2024-10-18 at 5 07 18 PM](https://github.com/user-attachments/assets/71ef9879-dc1e-4dbf-a8f3-bdb20fb0c2fd)
+
+
+
 
 Features
 Product List: Display a list of available products with their name and description.
@@ -18,7 +23,7 @@ Clone the repository:
 git clone 
 
 Navigate to the project directory:
-cd Shopping-cart
+cd cart-task
 Install dependencies:
 npm install
 Start the development server:
